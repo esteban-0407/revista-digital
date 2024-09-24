@@ -60,6 +60,7 @@ nav a:hover {
     flex: 1;
     display: flex;
     width: 100%;
+    padding:80px;
    
 }
 .izquierda, .derecha {
